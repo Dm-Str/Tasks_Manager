@@ -13,7 +13,7 @@
    ```
    pip install -r requirements.txt
    ```
-**5. Запуститте сервер:**
+**4. Запуститте сервер:**
    ```
    python manage.py runserver
    ```
